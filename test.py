@@ -19,6 +19,8 @@ Ejemplos rápidos:
   python test.py doctest
 """
 
+#subir a github y luego sincronizar con visual studio
+
 from __future__ import annotations
 
 import argparse
