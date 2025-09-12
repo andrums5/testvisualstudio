@@ -18,6 +18,8 @@ def main() -> None:
 
     print("Listo. ¡Esto era solo para tener algo de código!")
 
+    print("Segunda prueba")
+
 
 if __name__ == "__main__":
     main()
